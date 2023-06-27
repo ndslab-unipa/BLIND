@@ -23,12 +23,12 @@ jsonschema==3.2.0
 jupyter-client==6.1.2
 jupyter-contrib-core==0.3.3
 jupyter-contrib-nbextensions==0.5.1
-jupyter-core==4.6.3
+jupyter-core>=4.11.2
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 kiwisolver==1.2.0
-lxml==4.5.0
+lxml>=4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mistune==0.8.4
@@ -37,9 +37,9 @@ mypy==0.770
 mypy-extensions==0.4.3
 nbconvert==5.6.1
 nbformat==5.0.6
-notebook==6.0.3
+notebook>=6.4.12
 numexpr==2.7.1
-numpy==1.18.2
+numpy>=1.22
 packaging==20.3
 pandas==1.0.3
 pandocfilters==1.4.2
@@ -59,7 +59,7 @@ pytest==5.4.1
 pytest-cov==2.8.1
 python-dateutil==2.8.1
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML>=5.4
 pyzmq==19.0.0
 scikit-learn==0.22.2.post1
 scipy==1.4.1
