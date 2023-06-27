@@ -1,6 +1,10 @@
 # BLIND
 
-BLIND is a novel privacy-preserving truth discovery system designed specifically for mobile crowdsensing. This system introduces an advanced model that optimizes the Quality of Information (QoI) by effectively clustering user observations while maintaining their privacy. The primary objective of BLIND is to aggregate user data in a confidential manner, ensuring the privacy of individual participants and providing reliable results to a service provider (SP) without revealing sensitive information about users.
+BLIND is a novel privacy-preserving truth discovery system designed specifically for mobile crowdsensing.
+
+This system introduces an advanced model that optimizes the Quality of Information (QoI) by effectively clustering user observations while maintaining their privacy.
+
+The primary objective of BLIND is to aggregate user data in a confidential manner, ensuring the privacy of individual participants and providing reliable results to a service provider (SP) without revealing sensitive information about users.
 
 ## Features
 
