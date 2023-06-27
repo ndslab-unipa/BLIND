@@ -6,6 +6,8 @@ from configobj import ConfigObj
 from typing import List
 import numpy as np
 
+# Tests for the ServiceProvider
+
 # Add blind directory to sys.path
 sys.path.append((Path().cwd()).as_posix())
 from blind.paillier_blind import User, KeyProvider, ServiceProvider

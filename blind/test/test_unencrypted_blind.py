@@ -6,6 +6,8 @@ from configobj import ConfigObj
 from typing import List
 import numpy as np
 
+# Tests for the unencrypted version of BLIND
+
 # Add blind directory to sys.path
 sys.path.append((Path().cwd()).as_posix())
 from blind.unencrypted_blind import UnUser, UnServiceProvider
