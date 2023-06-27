@@ -1,4 +1,4 @@
-# BLIND
+# BLIND - A Privacy-Preserving Truth Discovery System for Mobile Crowdsensing
 
 BLIND is a novel privacy-preserving truth discovery system designed specifically for mobile crowdsensing.
 
