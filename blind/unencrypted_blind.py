@@ -3,6 +3,8 @@ import math
 from typing import List, Tuple
 from configobj import ConfigObj
 
+# Unencrypted version of BLIND, for test purposes only.
+
 class UnBaseAgent:
     def __init__(self, conf: ConfigObj):
         self.conf = conf

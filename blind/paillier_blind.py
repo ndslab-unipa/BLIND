@@ -7,6 +7,8 @@ from configobj import ConfigObj
 from phe import paillier
 from phe.paillier import PaillierPublicKey, PaillierPrivateKey, EncryptedNumber
 
+# Encrypted version of BLIND
+
 # TypeVar for number (either int or float)
 TNum = TypeVar('TNum', float, int)
 
